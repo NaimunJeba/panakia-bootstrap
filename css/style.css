@@ -1,0 +1,155 @@
+.main {
+    background: url(../img/main.png) top center no-repeat #000000;
+    color: #fff;
+}
+
+
+
+.navbar ul li {
+    display: inline-block;
+}
+
+.navbar li a {
+    display: block;
+    /*height: 25px;*/
+    font-size: 18px;
+    color: #31353e;
+    padding: 13px 20px !important;
+}
+
+.nav-item a:hover {
+    background: #dd4b2b;
+    border-radius: 25px;
+    color: #fff !important;
+}
+
+
+.read a:hover{
+     background: #dd4b2b;
+      color: #fff;
+}
+.main-h {
+    font-size: 72px;
+    font-weight: 300;
+    margin-top: 425px;
+}
+
+.img-box {
+
+    width: 145px;
+    height: 145px;
+    margin: 0 auto 10px;
+    border-radius: 50%;
+    border: 7px solid #fff;
+
+}
+.img-set{
+
+    width: 380px;
+    height: 250px;
+
+}
+p{
+    font-size: 15px;
+}
+footer ul li a{
+      font-size: 12px;
+}
+
+.sq-box {
+    width: 371px;
+    height: 254px;
+    margin: 0 auto;
+    border: 2px solid #ddd;
+
+}
+
+#newslatter {
+    background-image: url(../img/sec_bg.png);
+    background-size: cover;
+    background-position: center;
+    height: 271px;
+}
+
+/*newslatter box */
+
+
+
+
+.newsletter .newsletter-text {
+    color: rgba(17,7,255,.8);
+    padding-right: 140px;
+    position: relative;
+    z-index: 999;
+    max-width: 450px;
+}
+
+.newsletter .newsletter-form {
+    position: relative;
+    max-width: 355px;
+    margin-top: 23px;
+    z-index: 999;
+}
+
+.newsletter .newsletter-form input {
+    height: 55px;
+    width: 100%;
+    padding: 18px 135px 17px 30px;
+    font-family: IM Fell English,Times,Georgia,serif;
+    font-weight: 400;
+    font-style: italic;
+    border: 0 none;
+    border-radius: 20px;
+    outline: none;
+    background-color: #fff;
+    color: #1107ff;
+    font-size: 1.125rem;
+    line-height: 1;
+}
+
+.newsletter .newsletter-form button {
+    font-family: Sofia Pro,Helvetica,Arial,sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    width: 116px;
+    height: 36px;
+    transition: background-color .3s cubic-bezier(.165,.84,.44,1);
+    border-radius: 15px;
+    background-color: #a24325;
+    color: #fff;
+    font-size: .875rem;
+    line-height: 1;
+    position: absolute;
+    right: 9px;
+    bottom: 9px;
+    display: inline-block;
+    margin: 0;
+    padding: 0;
+    border: 0px;
+    outline: none;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+
+/*footer*/
+
+.info {
+    background: #d75d0e;
+}
+.info .row ul li{
+    text-align: -webkit-match-parent;
+}
+
+.info .row ul li a {
+    color: #fff;
+}
+
+.footer {
+    background: url(../img/sec_bg.png) top center no-repeat #fff;
+    color: #fff;
+}
+footer p{
+    font-size: 12px;
+}
+
